@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/soltivka/Screeps/issues"
   },
-  "homepage": "https://github.com/soltivka/Screeps#readme"
+  "homepage": "https://github.com/soltivka/Screeps#readme",
+  "dependencies": {
+    "grunt-screeps": "^1.5.0"
+  }
 }
